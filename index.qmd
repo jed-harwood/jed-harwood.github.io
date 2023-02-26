@@ -3,7 +3,7 @@ title: "Jed's Website"
 image: profile-pic.jpg
 about: 
   template: broadside
-  image-width: 20cm
+  image-width: 120cm
   image-shape: round
 ---
 
