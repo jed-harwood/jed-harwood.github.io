@@ -1,6 +1,6 @@
 ---
 title: "Jedidiah Harwood"
-image: profile-pic.jpg
+image: profile-pic.png
 about: 
   template: broadside
   image-width: 10cm
@@ -12,9 +12,12 @@ about:
 
 Hello, and welcome to my website!
 
-I am a Ph. D. Student in the Department of Statistics, at the University of California, Davis.
-Prior to my time at Davis, I completed my Bachelors degree in statistics, at the California State University, East Bay. During my time at CSUEB, I was a research assistant under Prof. Eric Suess.
+# About Me
+
+I am a Ph. D. Student in the Department of Statistics, at the University of California, Davis. Prior to my time at Davis, I completed my Bachelors degree in statistics, at the California State University, East Bay. During my time at CSUEB, I was a research assistant under Prof. Eric Suess.
+
+# Interests
+
+I am interested in Statistical Machine Learning, Bayesian Inference, and High-Dimensional Problems.
 
 # 
-
-## 

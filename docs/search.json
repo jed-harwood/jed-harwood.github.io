@@ -4,13 +4,13 @@
     "href": "index.html",
     "title": "Jedidiah Harwood",
     "section": "",
-    "text": "Hello, and welcome to my website!\nI am a Ph. D. Student in the Department of Statistics, at the University of California, Davis. Prior to my time at Davis, I completed my Bachelors degree in statistics, at the California State University, East Bay. During my time at CSUEB, I was a research assistant under Prof. Eric Suess."
+    "text": "About Me\nI am a Ph. D. Student in the Department of Statistics, at the University of California, Davis. Prior to my time at Davis, I completed my Bachelors degree in statistics, at the California State University, East Bay. During my time at CSUEB, I was a research assistant under Prof. Eric Suess.\n\n\nInterests\nI am interested in Statistical Machine Learning, Bayesian Inference, and High-Dimensional Problems."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Projects",
     "section": "",
-    "text": "About this site:"
+    "text": "In Progress"
   }
 ]
