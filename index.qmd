@@ -8,6 +8,11 @@ about:
   links: 
     - icon: envelope
       text: jedharwood [å] ucdavis [dot] edu
+    - icon: phone
+      text: (510) 384 - 4492
+    - icon: linkedin
+      text: Linkedin
+      href: https://linkedin.com/in/jed-harwood
 ---
 
 Hello, and welcome to my website!
@@ -20,4 +25,4 @@ I am a Ph. D. Student in the Department of Statistics, at the University of Cali
 
 I am interested in Statistical Machine Learning, Bayesian Inference, and High-Dimensional Problems.
 
-# 
+# Resumé
