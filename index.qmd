@@ -1,8 +1,9 @@
 ---
 title: "Jed's Website"
+image: profile-pic.jpg
 about: 
   template: broadside
-  image: profile-pic.jpg
+  image-shape: round
 ---
 
 Hello, and welcome to my website!
