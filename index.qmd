@@ -1,5 +1,8 @@
 ---
 title: "Jed's Website"
+about: 
+  template: broadside
+  image: profile-pic.jpg
 ---
 
 Hello, and welcome to my website!
