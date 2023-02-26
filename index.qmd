@@ -6,7 +6,8 @@ about:
   image-width: 10cm
   image-shape: round
   links: 
-    - icon: email
+    - icon: envelope
+      text: jedharwood [å] ucdavis [dot] edu
 ---
 
 Hello, and welcome to my website!
