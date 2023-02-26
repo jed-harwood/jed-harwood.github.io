@@ -2,10 +2,7 @@
 title: "Jed's Website"
 ---
 
-This is a Quarto website.
+Hello, and welcome to my website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am a Ph. D. Student in the Department of Statistics, at the University of California, Davis.
+Prior to my time at Davis, I completed my Bachelors degree in statistics, at the California State University, East Bay. During my time at CSUEB, I was a research assistant under Prof. Eric Suess.
