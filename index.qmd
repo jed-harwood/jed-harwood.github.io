@@ -26,3 +26,5 @@ I am a Ph. D. Student in the Department of Statistics, at the University of Cali
 I am interested in Statistical Machine Learning, Bayesian Inference, and High-Dimensional Problems.
 
 # Resumé
+
+[My Resume](https://ucdavis.box.com/v/jed-harwood-resume "Jedidiah Harwood's Resume")
