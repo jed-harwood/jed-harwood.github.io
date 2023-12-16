@@ -6,6 +6,10 @@ hide_title: true
 
 # Teaching Assistant
 
+## Winter 2024
+
+STA 131B: *Introduction to Mathematical Statistics*
+
 ## Fall 2023
 
 STA 35A: *Statistical Data Science I* 
