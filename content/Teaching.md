@@ -8,6 +8,7 @@ hide_title: true
 
 ## Spring 2024
 STA 13: *Introduction to Statistics*
+
 STA 131B: *Introduction to Mathematical Statistics*
 
 ## Winter 2024
