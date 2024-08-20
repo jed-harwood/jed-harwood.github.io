@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Software
 menu: main
 hide_title: true
 ---
