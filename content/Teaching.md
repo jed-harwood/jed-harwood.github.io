@@ -5,7 +5,7 @@ hide_title: true
 ---
 
 # Teaching Assistant
-
+ 
 ## Summer 2024
 STA 130A: *Mathematical Statistics (Brief Course)*
 
