@@ -4,10 +4,10 @@ menu: main
 hide_title: true
 ---
 
-# Teaching Assistant
+# Teaching Assistant[^1]
 
 ## Fall 2024
-STA 206: *Applied Statistics 1*[^1]
+STA 206: *Applied Statistics 1*
  
 ## Summer 2024
 STA 130A: *Mathematical Statistics (Brief Course)*
@@ -51,4 +51,4 @@ STA 13: *Introduction to Statistics*
 STA 13: *Introduction to Statistics*
 
 ***
-[^1]: 200+ -- graduate
+[^1]: <200 -- undergraduate; 200+ -- graduate
