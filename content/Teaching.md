@@ -7,7 +7,7 @@ hide_title: true
 # Teaching Assistant[^1]
 
 ## Fall 2024
-STA 206: *Applied Statistics 1*
+STA 206: *Applied Statistics I*
  
 ## Summer 2024
 STA 130A: *Mathematical Statistics (Brief Course)*
