@@ -51,4 +51,4 @@ STA 13: *Introduction to Statistics*
 STA 13: *Introduction to Statistics*
 
 ***
-[^1]: <200 -- undergraduate; 200+ -- graduate
+[^1]: code: <100 -- lower division; 100-200 -- upper division; 200+ -- graduate
