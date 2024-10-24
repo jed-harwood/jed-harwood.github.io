@@ -5,4 +5,4 @@ hide_title: true
 ---
 
 
-Coming soon!
+**SGM (Spectral Graphical Models):** SGM is an R package for learning a latent graph from stationary signals.  It currently offers code to fit a first-order Graphical Autoregressive Model (GAR(1)) as proposed by Peng et al. 2024.  It is available for download at https://github.com/jed-harwood/SGM. It is useful for graph inference when the data can be viewed as a graph diffusion process.  For more information, please see the paper: \<Coming soon\>
