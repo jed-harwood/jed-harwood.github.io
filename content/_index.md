@@ -7,6 +7,6 @@ menu: main
 
 Hello, and welcome to my website!  
 
-I am a third year Ph. D. student in the Department of Statistics, at UC Davis.  
+I am a third year Ph. D. student in the Department of Statistics, at UC Davis, working with Professor Jie Peng.  
 
 My research interests include statistical signal processing, graphical models, and high dimensional inference.  
