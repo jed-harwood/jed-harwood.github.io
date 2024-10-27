@@ -17,7 +17,7 @@ theme = 'barks'
     [params.social.google_scholar]
         name = "Google Scholar"
         class = "ai ai-google-scholar-square"
-        url = "https://scholar.google.com/citations?user=<your_user_id>"
+        url = "https://scholar.google.com/citations?user=FXRp_1IAAAAJ&hl=en&oi=ao"
         weight = 3
     [params.social.linkedin]
         name = "LinkedIn"
