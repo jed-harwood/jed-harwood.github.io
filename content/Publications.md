@@ -4,7 +4,7 @@ menu: main
 hide_title: true
 ---
 
-Peng J, Paul D, **Harwood J**, *Inferring Latent Graphs from Stationary Signals Using a Graphical Autoregressive Model* (2024), *Preprint*
+Peng J., Paul D., **Harwood J.**, *Inferring Latent Graphs from Stationary Signals Using a Graphical Autoregressive Model* (2024), *Preprint*
 
 
 Siegel, **Harwood**, Lau, Brenneis, Dawson, Pilarski, Schofield, 
