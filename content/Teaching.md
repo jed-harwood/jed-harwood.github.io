@@ -39,6 +39,9 @@ STA 35A: *Statistical Data Science I*
 
 # Associate Instructor
 
+## Winter, 2025
+STA 35A: Statistical Data Science I
+
 ## Summer 2024
 STA 103: *Applied Statistics for Business and Economics*
 
