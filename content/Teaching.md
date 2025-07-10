@@ -6,6 +6,9 @@ hide_title: true
 
 # Teaching Assistant[^1]
 
+## Spring 2025
+STA 141C: Big Data and High Performance Computing
+
 ## Fall 2024
 STA 206: *Applied Statistics I*
  
